@@ -2,11 +2,11 @@
 description: >-
   Edge Servers are on-demand scalable Linux virtual machines designed to enable
   high performance websites and applications.
-cover: ../../.gitbook/assets/serversCover (1).png
-coverY: 0
+cover: ../.gitbook/assets/serversCover.png
+coverY: 25.883244206773618
 ---
 
-# Edge Servers
+# Introduction
 
 {% hint style="success" %}
 **Available now**
