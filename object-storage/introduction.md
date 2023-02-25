@@ -2,11 +2,11 @@
 description: >-
   Edge Object Storage provides highly redundant, fast, secure and affordable
   storage for all types of data.
-cover: ../../.gitbook/assets/storageCover.png
+cover: ../.gitbook/assets/storageCover.png
 coverY: 0
 ---
 
-# Object Storage
+# Introduction
 
 {% hint style="info" %}
 **Edge Storage is currently in development**
@@ -16,7 +16,7 @@ Files in the Edge Network are encrypted and split into hundreds of pieces, and a
 
 The availability of files and transfer performance in and out of the network is managed through replication and proximity to the point of use, making Edge the ideal solution for backup, file transfer and app level data storage.
 
-![](../../.gitbook/assets/edgeStorage.png)
+<figure><img src="../.gitbook/assets/edgeStorage.png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 

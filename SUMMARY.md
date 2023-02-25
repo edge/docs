@@ -29,6 +29,6 @@
 * [Tutorials](edge-dns/tutorials.md)
 * [Q\&A](edge-dns/q-and-a.md)
 
-## Edge Storage
+## Object Storage
 
-* [Introduction](edge-storage/introduction.md)
+* [Introduction](object-storage/introduction.md)

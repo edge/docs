@@ -3,11 +3,11 @@ description: >-
   Edge DNS is a highly scalable Domain Name System service, designed to give
   businesses and developers a reliable and cost effective way to route end users
   to Internet applications.
-cover: ../../.gitbook/assets/dnsCoverAlt (2).png
+cover: ../.gitbook/assets/dnsCoverAlt.png
 coverY: 0
 ---
 
-# DNS
+# Introduction
 
 {% hint style="success" %}
 **Available now**
@@ -15,7 +15,7 @@ coverY: 0
 
 Powered by a worldwide anycast network built in to the core of Edge platform and operational in 26+ countries, Edge DNS operates at lightning speeds ensuring incredibly fast resolution times and low latency for your apps.
 
-<figure><img src="../../.gitbook/assets/dnsMap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dnsMap.png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 
