@@ -70,15 +70,13 @@ Your Edge Server has now been removed.
 
 <summary>How secure are Edge Servers?</summary>
 
-Very! Edge Servers are run in conjunction with contracted companies working in partnership with Edge Network's not for profit organisation. Edge is committed to working with third-parties that maintain industry-leading security. Edge regularly audits its partner's operations to ensure that they fully implement our security, uptime and redundancy requirements.
+
 
 </details>
 
 <details>
 
 <summary>What are some use cases for Edge Servers?</summary>
-
-
 
 
 

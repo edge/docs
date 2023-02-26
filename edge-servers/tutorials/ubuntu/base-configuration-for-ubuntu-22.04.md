@@ -70,7 +70,7 @@ To add these privileges to your new user you will need to add the user to the **
 As **root**, run this command to add your new user to the **sudo** group (substitute the highlighted `adam`username with your new user):
 
 ```
-usermod -aG sudo sammy
+usermod -aG sudo adam
 ```
 
 You can now type `sudo` before commands to run them with superuser privileges when logged in as your regular user.

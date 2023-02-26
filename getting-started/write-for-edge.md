@@ -32,7 +32,7 @@ We do not accept articles about closed-source software, paid software or promoti
 **Although there will be obvious cross over and commonality for specific software guides, we can’t reprint content that has already been published elsewhere**
 {% endhint %}
 
-## Will I Repaid for Creating Content?
+## Will I be Paid for Creating Content?
 
 Yes! Technical writers typically receive $250 of $XE per tutorial once it has passed review and has been published.
 
