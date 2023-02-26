@@ -9,7 +9,4 @@ description: >-
 
 ## Featured Tutorials
 
-{% hint style="info" %}
-**Coming soon**
-{% endhint %}
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Edge Server Base Configuration</td><td>Ubuntu 22.04</td><td>>_</td><td><a href="../../../.gitbook/assets/ubuntu.png">ubuntu.png</a></td><td><a href="./">.</a></td></tr><tr><td>How to Install the Apache Web Server</td><td>Ubuntu 22.04</td><td>>_</td><td><a href="../../../.gitbook/assets/apache-web-server-logo.png">apache-web-server-logo.png</a></td><td><a href="how-to-install-the-apache-web-server-on-ubuntu-22.04.md">how-to-install-the-apache-web-server-on-ubuntu-22.04.md</a></td></tr></tbody></table>

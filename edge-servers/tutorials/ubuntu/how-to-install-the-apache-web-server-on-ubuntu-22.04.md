@@ -6,7 +6,7 @@ description: >-
 
 # How To Install the Apache Web Server on Ubuntu 22.04
 
-<figure><img src="../../../.gitbook/assets/apache.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/apache-web-server-logo.png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction <a href="#introduction" id="introduction"></a>
 
