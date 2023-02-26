@@ -39,9 +39,9 @@ If you do not know your Edge Server’s IP address, you can find it in your Edge
 
 #### About root
 
-The **root** user is the administrative user in a Linux environment with elevated privileges. Because of the heightened privileges of the **root** account, you are _discouraged_ from using it regularly. The **root**account can make very destructive changes, even by accident.
+The **root** user is the administrative user in a Linux environment. It has elevated privileges and full access to the operating system. Because of this, you are _discouraged_ from using it regularly. The **root** account can make destructive changes and you will be surprised how easy it is to do this by accident!
 
-The next step is setting up a new user account with reduced privileges for day-to-day use. Later, we’ll show you how to temporarily gain increased privileges for the times when you need them.
+The next step is setting up a new user with reduced privileges specifically for day-to-day use.
 
 ### 2. Creating a New User
 

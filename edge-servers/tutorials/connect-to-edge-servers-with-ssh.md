@@ -38,10 +38,16 @@ You can now proceed to access your Edge Server using the default username and th
 
 ### Connect to Your Edge Server Using SSH
 
+To log in to your Edge Server with SSH you will need three pieces of information:
 
+1. The server's public IP address
+2. The default username on the server
+3. The default password for that username, if you haven't already installed SSH keys
 
+To get your Edge Server's **public IP address**, visit the Edge Account Portal. The IP address is displayed in the Edge Server's page within the account portal and will become visible after the Edge Server has finished being deployed. You can hit the copy icon next to the IP address to copy it to your clipboard.
 
+<figure><img src="../../.gitbook/assets/Screenshot-2023-02-25-at-23.45.18.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-**Tutorial in progress**
-{% endhint %}
+The default username is `root` on most operating systems supported by Edge Server, including Ubuntu, Debian, CentOS and AlamaLinux.
+
+Once you have your Edge Server's IP address, username, and password, follow the instructions for your SSH client. OpenSSH is included on Linux, macOS, and the Windows Subsystem for Linux. Windows users with Bash also have access to OpenSSH. Windows users without Bash can use [PuTTY](https://www.putty.org).
