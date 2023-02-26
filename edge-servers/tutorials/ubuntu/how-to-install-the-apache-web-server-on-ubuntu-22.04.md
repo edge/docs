@@ -320,7 +320,7 @@ Apache will now be serving your domain name. You can test this by navigating to 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-02-26 at 00.31.39.png" alt=""><figcaption></figcaption></figure>
 
-### 6. Familiarising Yourself with Apache Files and Directories
+### 6. Getting Familiar with Apache Files and Directories
 
 Now that you know how to manage the Apache service itself, you should take a few minutes to familiarise yourself with a few important directories and files.
 
