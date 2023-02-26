@@ -14,7 +14,9 @@
 ## Edge Servers
 
 * [Introduction](edge-servers/introduction.md)
-* [Tutorials](edge-servers/tutorials.md)
+* [Tutorials](edge-servers/tutorials/README.md)
+  * [Ubuntu](edge-servers/tutorials/ubuntu/README.md)
+    * [How To Install the Apache Web Server on Ubuntu 22.04](edge-servers/tutorials/ubuntu/how-to-install-the-apache-web-server-on-ubuntu-22.04.md)
 * [Q\&A](edge-servers/q-and-a.md)
 
 ## Content Delivery
