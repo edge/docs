@@ -52,6 +52,34 @@ The default username is `root` on most operating systems supported by Edge Serve
 
 <details>
 
+<summary>Can I reaize an Edge Server?</summary>
+
+Yes! Head to your servers page in the account system and select the `Resize` tab:
+
+<img src="../.gitbook/assets/Screenshot 2023-02-26 at 23.06.12.png" alt="" data-size="original">
+
+You can set the `Server Specs` that you need, resizing up or down from the configuration that you selected when the Edge Server was first deployed. This is the `vCPU`, `RAM`, `Disk` and `Network performance` that you want your Edge Server to have access to
+
+</details>
+
+<details>
+
+<summary>How do I power down my Edge Server?</summary>
+
+Yes. Head to your servers page in the account system and click on the `On` button towards the top right of the screen:
+
+<img src="../.gitbook/assets/Screenshot 2023-02-26 at 23.08.13.png" alt="" data-size="original">
+
+You will be prompted to confirm that you want to power down your Edge Server. Select `Continue` to do so:
+
+<img src="../.gitbook/assets/Screenshot 2023-02-26 at 23.08.17.png" alt="" data-size="original">
+
+Your Edge Server is now turned off. You can turn it back on using the same button.
+
+</details>
+
+<details>
+
 <summary>How do I remove an Edge Server from my account?</summary>
 
 Removing an Edge Server is fast adn easy. Head to your servers page in the account system, then click on the `Destroy` tab:
@@ -70,7 +98,7 @@ Your Edge Server has now been removed.
 
 <summary>How secure are Edge Servers?</summary>
 
-
+Very! Edge Servers are run in conjunction with contracted companies working in partnership with Edge Network's not for profit organisation. Edge is committed to working with third-parties that maintain industry-leading security. Edge regularly audits its partner's operations to ensure that they fully implement our security, uptime and redundancy requirements.
 
 </details>
 
@@ -78,6 +106,8 @@ Your Edge Server has now been removed.
 
 <summary>What are some use cases for Edge Servers?</summary>
 
+See the `Use Cases` page in the docs:&#x20;
 
+[https://docs.edge.network/getting-started/use-cases](https://docs.edge.network/getting-started/use-cases)
 
 </details>
