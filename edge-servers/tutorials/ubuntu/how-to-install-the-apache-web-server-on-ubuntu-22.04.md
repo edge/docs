@@ -6,7 +6,7 @@ description: >-
 
 # How To Install the Apache Web Server on Ubuntu 22.04
 
-<figure><img src="../../../.gitbook/assets/apache-web-server-logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/apache.png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction <a href="#introduction" id="introduction"></a>
 
@@ -16,11 +16,11 @@ This guide will teach you how to install an Apache web server on your Ubuntu 22.
 
 Before you start, you will need an Ubuntu 22.04 Edge Server with a non-**root** user with `sudo` privileges and a firewall enabled to block non-essential ports.
 
-You can learn how to do this by following our Initial setup guide for Ubuntu 22.04.
+You can learn how to do this by following our base configuration tutorial for Ubuntu 22.04:
 
-{% hint style="info" %}
-**Page link coming soon**
-{% endhint %}
+{% content-ref url="base-configuration-for-ubuntu-22.04.md" %}
+[base-configuration-for-ubuntu-22.04.md](base-configuration-for-ubuntu-22.04.md)
+{% endcontent-ref %}
 
 Once you’re done setting this up, log in as your non-**root** user and proceed to step 1.
 
@@ -126,7 +126,7 @@ sudo systemctl status apache2
 
 We can see that the service has started successfully. However, the best way to test this is to request a page from your Edge Server in your browser.
 
-You can access the default Apache landing page to confirm that the software is running properly through your Edge Server's IP address. If you do not know your Edge Server’s IP address, you can find it in your Edge Accpunt:
+You can access the default Apache landing page to confirm that the software is running properly through your Edge Server's IP address. If you do not know your Edge Server’s IP address, you can find it in your Edge Account:
 
 <figure><img src="../../../.gitbook/assets/Screenshot-2023-02-25-at-23.45.18.png" alt=""><figcaption></figcaption></figure>
 
@@ -320,7 +320,7 @@ Apache will now be serving your domain name. You can test this by navigating to 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-02-26 at 00.31.39.png" alt=""><figcaption></figcaption></figure>
 
-### 6. Getting Familiar with Apache Files and Directories
+### 6. Familiarising Yourself with Apache Files and Directories
 
 Now that you know how to manage the Apache service itself, you should take a few minutes to familiarise yourself with a few important directories and files.
 
