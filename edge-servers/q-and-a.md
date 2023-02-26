@@ -66,7 +66,7 @@ You can set the `Server Specs` that you need, resizing up or down from the confi
 
 <summary>How do I power down my Edge Server?</summary>
 
-Yes. Head to your servers page in the account system and click on the `On` button towards the top right of the screen:
+Head to your servers page in the account system and click on the `On` button towards the top right of the screen:
 
 <img src="../.gitbook/assets/Screenshot 2023-02-26 at 23.08.13.png" alt="" data-size="original">
 
