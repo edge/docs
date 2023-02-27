@@ -12,6 +12,14 @@
 * [📈 Customer Success](getting-started/customer-success.md)
 * [✍ Write for Edge](getting-started/write-for-edge.md)
 
+## Account Management
+
+* [Setting Up an Account](account-management/setting-up-an-account.md)
+* [Accessing Your Account](account-management/accessing-your-account.md)
+* [Setting Up 2FA](account-management/setting-up-2fa.md)
+* [Account Recovery](account-management/account-recovery.md)
+* [Billing](account-management/billing.md)
+
 ## Edge Servers
 
 * [Introduction](edge-servers/introduction.md)
