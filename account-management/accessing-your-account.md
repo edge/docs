@@ -4,6 +4,10 @@ description: Signing in to the Edge Account Portal is extremely straightforward.
 
 # Accessing Your Account
 
+## Introduction
+
+Sign in to and out of your Edge account is stright forward, and has been designed to be as frictionless as possible. Accounts are anonymous, meaning that there are no laborious sign up forms to complete. Simply generate an account and start using the Edge Network.
+
 ## Tutorial
 
 ### 1. Signing In

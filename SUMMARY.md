@@ -18,6 +18,7 @@
 * [Accessing Your Account](account-management/accessing-your-account.md)
 * [Setting Up 2FA](account-management/setting-up-2fa.md)
 * [Account Recovery](account-management/account-recovery.md)
+* [Account Deletion](account-management/account-deletion.md)
 * [Billing](account-management/billing.md)
 
 ## Edge Servers
@@ -45,3 +46,14 @@
 ## Object Storage
 
 * [Introduction](object-storage/introduction.md)
+
+## Blockchain
+
+* [Introduction](blockchain/introduction.md)
+
+## Support
+
+* [Basic Support](support/basic-support.md)
+* [Priority Support](support/priority-support.md)
+* [Professional Solutions](support/professional-solutions.md)
+* [Get in Touch](support/get-in-touch.md)
