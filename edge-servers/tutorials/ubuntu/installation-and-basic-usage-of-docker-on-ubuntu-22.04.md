@@ -101,7 +101,7 @@ Once Docker is installed, you will have access not only to the Docker service (d
 
 ### 2. Running Docker as Non-Root
 
-By default, only the  **root** user or users in the docker group can run the docker command. If you try to run the docker command without prefixing it with sudo or without being in the docker group, you will see an error message like this:
+By default, only the **root** user or users in the docker group can run the docker command. If you try to run the docker command without prefixing it with sudo or without being in the docker group, you will see an error message like this:
 
 ```
 docker: Cannot connect to the Docker daemon. Is the docker daemon running on this host?.
@@ -188,7 +188,7 @@ docker images
 
 This command will display a list of all the images that have been downloaded to your computer, along with their respective repository, tag, and size. You can use this list to verify that the image you downloaded is available and to keep track of the disk space used by your Docker images.
 
-### 4. Interactive Container Access 
+### 4. Interactive Container Access
 
 In the previous hello world step, we ran a simple container, but containers can be much more powerful and interactive. They are like virtual machines but more efficient. Let's run a container using the latest Ubuntu image as an example. We can use the `-i` and `-t` switches to get interactive shell access into the container. This will change your command prompt to reflect that you're now inside the container.
 
@@ -199,7 +199,7 @@ docker run -it alpine
 Once inside the container, you can run any command. For example, you can update the package database and install Node.js. `apk` is the package manager of alpine linux in this case. Any changes you make inside the container will only apply to that container.
 
 ```
-/ # apk add nodejs
+apk add nodejs
 ```
 
 After using Docker for a while, you'll have many active and inactive containers on your computer. You can view the active ones using `docker ps`. To view all containers, including inactive ones, use `docker ps -a`. You can start and stop containers using `docker start` and `docker stop`. When you're done with a container, you can remove it with `docker rm`.
