@@ -29,7 +29,7 @@
   * [Ubuntu](edge-servers/tutorials/ubuntu/README.md)
     * [Base Configuration for Ubuntu 22.04](edge-servers/tutorials/ubuntu/base-configuration-for-ubuntu-22.04.md)
     * [How To Install the Apache Web Server on Ubuntu 22.04](edge-servers/tutorials/ubuntu/how-to-install-the-apache-web-server-on-ubuntu-22.04.md)
-    * [How To Install mongoDB on Ubuntu 22.04](edge-servers/tutorials/ubuntu/how-to-install-mongodb-on-ubuntu-22.04.md)
+    * [How To Install the mongoDB Database on Ubuntu 22.04](edge-servers/tutorials/ubuntu/how-to-install-mongodb-on-ubuntu-22.04.md)
     * [Installation and Basic Usage of Docker on Ubuntu 22.04](edge-servers/tutorials/ubuntu/installation-and-basic-usage-of-docker-on-ubuntu-22.04.md)
 * [Q\&A](edge-servers/q-and-a.md)
 
