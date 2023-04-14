@@ -5,7 +5,7 @@ Edge is the world's first dedicated edge network. A high performance, environmen
 These docs provide information and tutorials about Edge services: how to sign up, deploy services and install your products and apps on them.
 
 {% hint style="info" %}
-**This is a living document that is regularly updated. Last update: 16th March 2023**
+**This is a living document that is regularly updated. Last update: 14th April 2023**
 {% endhint %}
 
 The source for the docs can be found here: [github.com/edge/docs](https://github.com/edge/docs)

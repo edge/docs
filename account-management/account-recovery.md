@@ -12,7 +12,7 @@ Adding a recovery email to your account enables you to gain access in the event 
 
 ## Tutorial
 
-To set up a recovery email, head to the `Settings` > `Recovery Email` section of your Edge **** account.
+To set up a recovery email, head to the `Settings` > `Recovery Email` section of your Edge account.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-02-27 at 22.31.42.png" alt=""><figcaption></figcaption></figure>
 

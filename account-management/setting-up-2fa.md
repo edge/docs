@@ -24,7 +24,7 @@ Enter the verification code provided in to your Edge account and click `Enable 2
 
 You will be given a series of backup codes that can be used to access your account in the event that you loose your 2FA device. Make sure that you make a note of backup codes or store them in a password manager such as [1Password](https://1password.com).
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-27 at 22.11.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-27 at 22.11.12 (1).png" alt=""><figcaption></figcaption></figure>
 
 Now click `I confirm I have stored my backup codes in a safe place`.
 
@@ -32,13 +32,13 @@ Now click `I confirm I have stored my backup codes in a safe place`.
 
 ### Disabling 2FA
 
-You can disable 2FA at any time by entering your verification code within the `Settings` > `Two-factor Authentication (2FA)` section of your Edge **** account.
+You can disable 2FA at any time by entering your verification code within the `Settings` > `Two-factor Authentication (2FA)` section of your Edge account.
 
 ### Adding Additional Users to 2FA
 
 The addition of secondary 2FA accounts to your Edge account is straight forward.
 
-Head to the `Settings` > `Two-factor Authentication (2FA)` section of your Edge **** account.
+Head to the `Settings` > `Two-factor Authentication (2FA)` section of your Edge account.
 
 Click on `Add extra 2FA code` to reveal a QR code that be used to configure and link an additional 2FA device to your Edge account.
 

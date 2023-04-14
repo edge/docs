@@ -6,7 +6,7 @@ description: >-
 
 # ✍ Write for Edge
 
-<figure><img src="../.gitbook/assets/how-to-become-a-technical-writer (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-become-a-technical-writer.jpg" alt=""><figcaption></figcaption></figure>
 
 If you are good writer with an understanding of technology or a technical writer by trade, Edge wants to hear from you! The docs site for Edge Products is a new initiative with huge room for growth, meaning that there are a lot of topics available for you to write about.
 
