@@ -24,7 +24,7 @@ If you're interested in experiencing the power and potential of Edge Network fir
 
 To set up your personalized demo, choose a convenient time slot from our booking system:
 
-{% embed url="https://calendly.com/edge-network/demo" %}
+[https://calendly.com/edge-network/demo](https://calendly.com/edge-network/demo)
 
 An Edge specialist will guide you through the features and capabilities of Edge Network, answer any questions you may have, and help you determine the best course of action for your business or project.
 
