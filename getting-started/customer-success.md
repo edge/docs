@@ -40,10 +40,10 @@ Bauer Media use Edge CDN to power their vast image library across hundreds of we
 
 View property: [empireonline.com](https://empireonline.com)
 
-## Foundland
+## Newfoundland
 
-Recognising that every second spent loading represents an incremental reduction in sales conversion for e-commerce, Foundland use Edge CDN to ensure high-performance delivery to their global audience.
+Recognising that every second spent loading represents an incremental reduction in sales conversion for e-commerce, Newfoundland use Edge CDN to ensure high-performance delivery to their global audience.
 
-> Edge has given us the ability to provide a customer experience that is identical regardless of location. We can drive traffic across global marketing platforms without worrying about the high costs of regional infrastructure. – **Sarah Khalaf**, Founder | Foundland
+> Edge has given us the ability to provide a customer experience that is identical regardless of location. We can drive traffic across global marketing platforms without worrying about the high costs of regional infrastructure. – **Sarah Khalaf**, Founder | Newfoundland
 
 View property: [foundland.com](https://foundland.com)
