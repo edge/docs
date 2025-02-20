@@ -18,7 +18,7 @@ An example of a static site hosted via Edge Content Delivery can be seen here:
 
 Dynamic sites can be delivered using Edge Servers, which as VPSs are capable of running practically any application.
 
-Hosting on the Edge ensures a lightening fast experience for your end users, increasing conversion and retention.
+Hosting on the Edge ensures a lightning, lighting fast experience for your end users, increasing conversion and retention.
 
 ## Content Delivery
 

@@ -48,4 +48,4 @@ Before you apply, make sure that you have explored the docs site to see the kind
 
 Edge tutorials typically focus on providing a series of steps to solve a specific problem. Each step is explained thoroughly so that readers are  aware of what the code or commands do, and provides them with enough information that they can adapt the process to their own requirements.
 
-A good exmaple of this is the [Base Configuration for Ubuntu 22.04](../edge-servers/tutorials/ubuntu/base-configuration-for-ubuntu-22.04.md) tutorial. This tutorial provides a set of steps, each with a specific action for the user and a clear description of the expected outcome. The focus is on the tasks at hand and their benefit to the user rather than being a description of the technology itself.
+A good example of this is the [Base Configuration for Ubuntu 22.04](../edge-servers/tutorials/ubuntu/base-configuration-for-ubuntu-22.04.md) tutorial. This tutorial provides a set of steps, each with a specific action for the user and a clear description of the expected outcome. The focus is on the tasks at hand and their benefit to the user rather than being a description of the technology itself.
