@@ -208,6 +208,6 @@ You can also create new images based on changes you make in a container. After i
 
 ### Conclusion
 
-In conclusion, Docker is a powerful tool for managing containers and images, and this tutorial has provided a basic introduction to its installation and usage. However, there is a extremely large wealth of possibilites and features to further explore. To further enhance your understanding of Docker, it is recommended to read more tutorials and documentation available on the official Docker page.
+In conclusion, Docker is a powerful tool for managing containers and images, and this tutorial has provided a basic introduction to its installation and usage. However, there is a extremely large wealth of possibilities and features to further explore. To further enhance your understanding of Docker, it is recommended to read more tutorials and documentation available on the official Docker page.
 
 {% embed url="https://docs.docker.com" %}
