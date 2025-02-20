@@ -24,7 +24,7 @@ Then set the `Server Specs` that you need. This is the `vCPU`, `RAM`, `Disk` and
 
 Next set a `Server Name`, `Hostname` and `Password` for your Edge Server. These can be whatever you want them to be, but they will be prepopulated with unique defaults for you. If you want to use the defaults, make sure that you copy them to somewhere safe like a password manager before you deploy you Edge Server.
 
-And finally hit the `Deploy` button. Your Edge Server will be deployed and you will be notifed when it comes online:
+And finally hit the `Deploy` button. Your Edge Server will be deployed and you will be notified when it comes online:
 
 <img src="../.gitbook/assets/Screenshot 2023-02-26 at 12.58.36.png" alt="" data-size="original">
 
