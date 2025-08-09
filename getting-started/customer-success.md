@@ -6,6 +6,20 @@ description: >-
 
 # 📈 Customer Success
 
+## Tinder
+
+The world’s largest dating app with over 75 million monthly users, used Edge CDN to power its global Year In Swipe™ 2024 campaign.
+
+The campaign platform featured interactive assets such as a personalised mood-board creating tool and city-level dating trends.
+
+With a massive global audience and a need for real-time responsiveness, Tinder relied on Edge CDN’s decentralised architecture — routing user requests through hundreds of nodes worldwide to serve each asset from the location closest to the user. This ensured consistently fast, reliable performance throughout the global campaign.
+
+> In the first days alone, the interactive site drew over 35 million visits, peaking at 600 requests per second, and has now surpassed 82.7 million requests in total.&#x20;
+>
+> The Year In Swipe™ 2024 campaign earned a nomination for a Webby Award, placing it among the top 5 in its category worldwide.
+
+View property: [yearinswipe.com](https://yearinswipe.com/)
+
 ## Monocle
 
 Monocle use Edge CDN for the management of images and audio across their estate, including on their website at monocle.com, in their mobile app M24 and, via a sync-up with InDesign, in the publication itself.
@@ -39,11 +53,3 @@ Bauer Media use Edge CDN to power their vast image library across hundreds of we
 > Edge helps us deliver experiences in days and weeks not weeks and months. – **Matt Hobbs**, CTO | Bauer Media
 
 View property: [empireonline.com](https://empireonline.com)
-
-## Foundland
-
-Recognising that every second spent loading represents an incremental reduction in sales conversion for e-commerce, Foundland use Edge CDN to ensure high-performance delivery to their global audience.
-
-> Edge has given us the ability to provide a customer experience that is identical regardless of location. We can drive traffic across global marketing platforms without worrying about the high costs of regional infrastructure. – **Sarah Khalaf**, Founder | Foundland
-
-View property: [foundland.com](https://foundland.com)

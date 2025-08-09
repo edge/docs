@@ -10,7 +10,7 @@
 * [🌳 The Green Cloud](getting-started/the-green-cloud.md)
 * [📖 Use Cases](getting-started/use-cases.md)
 * [📈 Customer Success](getting-started/customer-success.md)
-* [✍ Write for Edge](getting-started/write-for-edge.md)
+* [✍️ Write for Edge](getting-started/write-for-edge.md)
 
 ## Account Management
 
